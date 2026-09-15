@@ -21,6 +21,7 @@ retired.
 | File | Hospital | Added |
 | --- | --- | --- |
 | `southernlanka.html` | Southern Lanka | 2026-09-15 |
+| `coop.html` | Co-op (Galle Co-Operative Hospital) | 2026-09-15 |
 
 ## Editing a notice
 
