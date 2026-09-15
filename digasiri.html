@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Payment Notice</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .wrap {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+  }
+  .card {
+    box-sizing: border-box;
+    max-width: 560px;
+    width: 100%;
+    border: 3px solid #c0392b;
+    border-radius: 8px;
+    background: #fdecea;
+    overflow: hidden;
+  }
+  .card-header {
+    background: #c0392b;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px 18px;
+  }
+  .card-body {
+    padding: 18px 20px;
+    color: #333333;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  .card-body p {
+    margin: 0 0 12px 0;
+  }
+  .card-body p:last-child {
+    margin-bottom: 0;
+  }
+  .greeting {
+    font-size: 15px;
+    color: #7b241c;
+    font-weight: bold;
+  }
+  .contact {
+    font-size: 13px;
+    color: #555555;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="card">
+    <div class="card-header">&#9888; Payment Notice</div>
+    <div class="card-body">
+      <p class="greeting">Dear Digasiri,</p>
+      <p>Your HMIS subscription payment is currently <strong>overdue</strong>. Please arrange payment at your earliest convenience.</p>
+      <p>If payment is not received, access to the system will be <strong>temporarily suspended</strong>.</p>
+      <p class="contact">For details, please contact <strong>CareCode</strong>.</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>

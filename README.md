@@ -22,6 +22,7 @@ retired.
 | --- | --- | --- |
 | `southernlanka.html` | Southern Lanka | 2026-09-15 |
 | `coop.html` | Co-op (Galle Co-Operative Hospital) | 2026-09-15 |
+| `digasiri.html` | Digasiri (New Puttalam Digasiri Hospital) | 2026-09-15 |
 
 ## Editing a notice
 
