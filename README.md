@@ -24,6 +24,7 @@ retired.
 | `coop.html` | Co-op (Galle Co-Operative Hospital) | 2026-09-15 |
 | `digasiri.html` | Digasiri (New Puttalam Digasiri Hospital) | 2026-09-15 |
 | `rmh.html` | RMH | 2026-09-15 |
+| `roseth.html` | Roseth Hospital | 2026-09-15 |
 
 ## Editing a notice
 
